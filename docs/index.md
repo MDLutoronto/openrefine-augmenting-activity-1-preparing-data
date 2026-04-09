@@ -9,6 +9,7 @@ staff:
 maintainer:
  - name: Nick Field
    link: https://library.utoronto.ca/staff/nick-field
+created_date: 2019-04-03
 ---
 
 # OpenRefine Augmenting Activity 1: Preparing the data
@@ -149,6 +150,3 @@ Create a new project from a JSON file of book information and learn about rows v
 	![Final results: authors' names have been reversed (if they were previously last name then first name), and authors with one part to their name have been copied over.]({{ '/assets/images/openrefineworkshop83a.png' | relative_url }})
 
 That’s it! Now your dataset is ready for **[OpenRefine Augmenting Activity 2: Using Reconciliation Services](https://mdl.library.utoronto.ca/technology/tutorials/openrefine-augmenting-activity-2-using-reconciliation-services)**
-
-Technique: [Cleaning data](/technique/cleaning-data) \| Tools: [OpenRefine](/tools/openrefine)  
-**Date Created:** 2019\-04\-03 **Updated:** 2023\-10\-23
