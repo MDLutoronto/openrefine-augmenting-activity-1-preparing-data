@@ -150,3 +150,5 @@ Create a new project from a JSON file of book information and learn about rows v
 	![Final results: authors' names have been reversed (if they were previously last name then first name), and authors with one part to their name have been copied over.]({{ '/assets/images/openrefineworkshop83a.png' | relative_url }})
 
 That’s it! Now your dataset is ready for **[OpenRefine Augmenting Activity 2: Using Reconciliation Services](https://mdl.library.utoronto.ca/technology/tutorials/openrefine-augmenting-activity-2-using-reconciliation-services)**
+
+**Technique:** [Cleaning data](https://mdlutoronto.github.io/tutorials-search/?technique=Cleaning+data) \| **Tools:** [OpenRefine](https://mdlutoronto.github.io/tutorials-search/?tool=OpenRefine)
